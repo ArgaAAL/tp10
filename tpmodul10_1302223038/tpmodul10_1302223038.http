@@ -1,6 +1,7 @@
-@tpmodul10_1302223038_HostAddress = http://localhost:5053
+@tpmodul10_1302223038_HostAddress = https://localhost:7215
 
-GET {{tpmodul10_1302223038_HostAddress}}/weatherforecast/
+GET https://localhost:7215/api/mahasiswa
 Accept: application/json
+
 
 ###
